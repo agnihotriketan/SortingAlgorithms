@@ -1,0 +1,12 @@
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe.config
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\SortingApplication\SortingApplication\bin\Debug\SortingApplication.pdb
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\SortingApplication\SortingApplication\obj\Debug\SortingApplication.csprojResolveAssemblyReference.cache
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\SortingApplication\SortingApplication\obj\Debug\SortingApplication.exe
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\SortingApplication\SortingApplication\obj\Debug\SortingApplication.pdb
+D:\MyGit\Sorting Algorithm\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe.config
+D:\MyGit\Sorting Algorithm\SortingApplication\SortingApplication\obj\Debug\SortingApplication.exe
+D:\MyGit\Sorting Algorithm\SortingApplication\SortingApplication\obj\Debug\SortingApplication.pdb
+D:\MyGit\Sorting Algorithm\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe
+D:\MyGit\Sorting Algorithm\SortingApplication\SortingApplication\bin\Debug\SortingApplication.pdb
+D:\MyGit\Sorting Algorithm\SortingApplication\SortingApplication\obj\Debug\SortingApplication.csprojResolveAssemblyReference.cache
