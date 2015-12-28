@@ -16,3 +16,9 @@ D:\MyGit\Sorting Algorithm\SortingAlgorithms\SortingApplication\SortingApplicati
 D:\MyGit\Sorting Algorithm\SortingAlgorithms\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe
 D:\MyGit\Sorting Algorithm\SortingAlgorithms\SortingApplication\SortingApplication\bin\Debug\SortingApplication.pdb
 D:\MyGit\Sorting Algorithm\SortingAlgorithms\SortingApplication\SortingApplication\obj\Debug\SortingApplication.csprojResolveAssemblyReference.cache
+D:\MyGitRepo\SortingAlgorithms\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe.config
+D:\MyGitRepo\SortingAlgorithms\SortingApplication\SortingApplication\obj\Debug\SortingApplication.exe
+D:\MyGitRepo\SortingAlgorithms\SortingApplication\SortingApplication\obj\Debug\SortingApplication.pdb
+D:\MyGitRepo\SortingAlgorithms\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe
+D:\MyGitRepo\SortingAlgorithms\SortingApplication\SortingApplication\bin\Debug\SortingApplication.pdb
+D:\MyGitRepo\SortingAlgorithms\SortingApplication\SortingApplication\obj\Debug\SortingApplication.csprojResolveAssemblyReference.cache

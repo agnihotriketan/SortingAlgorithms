@@ -11,7 +11,7 @@ namespace SortingApplication
         static void Main(string[] args)
         {
             int[] array = new int[] { 41, 22, 13, 64, 99, 10, 55, 66, 28 };
-            Console.WriteLine("Sorting Algorithms\n");
+            Console.WriteLine("***** Sorting Algorithms *****\n");
             DisplayArray(array);
             
             var ansBubble = BubbleSort(array);
@@ -33,7 +33,7 @@ namespace SortingApplication
           
             //----------------------
             var ansMergeSort = MergeSort(array,0,array.Length-1);
-            Console.WriteLine(" MergeSort Answer\n");
+            Console.WriteLine("\nMergeSort Answer\n");
             DisplayArray(ansMergeSort);
 
 
@@ -123,24 +123,24 @@ namespace SortingApplication
             return array;
         }
 
-        private static int[] QuickSort(int[] array, int p, int r)
+        private static int[] QuickSort(int[] array, int left, int right)
         {
-            if (p < r)
+            if (left < right)
             {
-                int q;
-                q = Partition(array, p, r);
-                QuickSort(array, p, q);
-                QuickSort(array, q + 1, r);
+                
+                int pivotEleIndex = Partition(array, left, right);
+                QuickSort(array, left, pivotEleIndex);
+                QuickSort(array, pivotEleIndex + 1, right);
             }
             return array;
         }
 
-        private static int Partition(int[] array, int p, int r)
+        private static int Partition(int[] array, int left, int right)
         {
             int i, j, pivot, temp;
-            pivot = array[p];
-            i = p;
-            j = r;
+            pivot = array[left];
+            i = left;
+            j = right;
             while (true)
             {
                 while (array[i] < pivot && array[i] != pivot)
