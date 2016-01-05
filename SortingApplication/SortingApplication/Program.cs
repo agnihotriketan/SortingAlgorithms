@@ -36,6 +36,16 @@ namespace SortingApplication
             Console.WriteLine("\nMergeSort Answer\n");
             DisplayArray(ansMergeSort);
 
+            //Sort Array without typecasting
+            string[] strArray = new string[] { "41", "22", "13", "64", "990", "10", "505", "281" };
+            var asciiByte = ASCIIEncoding.ASCII.GetBytes(strArray[3].ToString());//To Ascii
+
+            foreach (byte b in asciiByte)
+            {
+                //Console.WriteLine(b);
+                var characters = Encoding.ASCII.GetChars(new byte[] { b }); //To char
+            }
+
 
             Console.ReadLine();
         }
